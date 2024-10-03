@@ -14,5 +14,5 @@
 
 ## Run steamlit app -Anaconda/Terminal local
 
-- cd Submission/dasboard
+- cd Submission/Dasboard
 - streamlit run dashboard.py
